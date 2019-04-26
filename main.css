@@ -10,12 +10,13 @@ p {
   text-align: center;
 }
 
-h1, h2, h3 {
+h1, h2, {
   text-align: center;
 }
 
 h3 {
   color: #fff;
+  padding-left: 27px;
 }
 
 .song-list {
